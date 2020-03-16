@@ -1,9 +1,10 @@
 # Week 12, 2020
-## Status
+## High-Level
+### Status
 - Vibe Check: Generally Healthy, Ambitious, Working to Put Corona in Check.
 - Location: NYC
 
-## Current Projects & Studies
+### Current Projects & Studies
 - Virimodo
 - Corona Virus
 - BUP ( BuPeriod )
@@ -11,7 +12,8 @@
 - Consumer Data Privacy
 - Mentoring
 - The Worms
-## Random Fun & Side Stuff
+
+### Random Fun & Side Stuff
 - Probability & Stats
 - Languages
 - Oculus Go
