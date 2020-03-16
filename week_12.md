@@ -1,8 +1,8 @@
 # Week 12, 2020
 ## Status
+- Vibe Check: Generally Healthy, Ambitious, Working to Put Corona in Check.
 - Location: NYC
-- Corona: As far as I know, nope - but still social distancing!
-- Mood: Generally Healthy, Ambitious, Working to Put Corona in Check.
+
 ## Current Projects & Studies
 - Virimodo
 - Corona Virus
