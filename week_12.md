@@ -3,5 +3,10 @@
 - Location: NYC
 - Corona: As far as I know, nope - but still social distancing!
 - Mood: Generally Healthy, Ambitious, Working to Put Corona in Check.
-## Projects
-- Current Projects:
+## Current Projects
+- Virimodo
+- Corona Virus
+- BUP ( BuPeriod )
+- FTT ( FuckTheTitle )
+- OSU Consumer Privacy
+- 
