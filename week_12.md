@@ -12,6 +12,8 @@
 - BUP ( BuPeriod )
 -- who:\
 -- what:\
+-- how:\
+-- link:\
 - FTT ( FuckTheTitle )
 - Consumer Data Privacy
 - Mentoring
