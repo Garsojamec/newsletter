@@ -9,11 +9,11 @@
 -- what: Connect energy consumers, property managers, and cities to clean energy suppliers.  
 -- how: Community-building, code, and machine learning.  
 -- link: https://virimodo.com/  
-- BUP ( BuPeriod )
--- who:\
--- what:\
--- how:\
--- link:\
+- BUP ( BuPeriod )\  
+-- who:\  
+-- what:\  
+-- how:\  
+-- link:\  
 - FTT ( FuckTheTitle )
 - Consumer Data Privacy
 - Mentoring
