@@ -9,11 +9,11 @@
 -- what: Connect energy consumers, property managers, and cities to clean energy suppliers.  
 -- how: Community-building, code, and machine learning.  
 -- link: https://virimodo.com/  
-- BUP ( BuPeriod )\  
--- who:\  
--- what:\  
--- how:\  
--- link:\  
+- BUP ( BuPeriod )  
+-- who: Cool Startup.
+-- what:  Provide health data management options to menstruators so they can monitor, assess, and take agency over their menstrual health.
+-- how:  Customized, wearable, iot smart pads + data privacy & community-building.
+-- link:  
 - FTT ( FuckTheTitle )
 - Consumer Data Privacy
 - Mentoring
