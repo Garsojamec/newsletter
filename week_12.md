@@ -3,7 +3,7 @@
 - Location: NYC
 - Corona: As far as I know, nope - but still social distancing!
 - Mood: Generally Healthy, Ambitious, Working to Put Corona in Check.
-## Current Projects
+## Current Projects & Studies
 - Virimodo
 - Corona Virus
 - BUP ( BuPeriod )
@@ -11,4 +11,6 @@
 - Consumer Data Privacy
 - Mentoring
 - The Worms
--
+## Random Fun & Side Stuff
+- Probability & Stats
+- Languages
