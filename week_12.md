@@ -5,8 +5,8 @@
 - Location: NYC
 ### Current Projects & Studies
 - Virimodo
--- Cool Startup connecting energy consumers, building owners, property managers, and cities to clean energy suppliers via community-building, machine learning, and probably blockchain.
--- https://virimodo.com/
+-- tldr: Cool Startup connecting energy consumers, building owners, property managers, and cities to clean energy suppliers via community-building, machine learning, and probably blockchain.
+-- link: https://virimodo.com/
 
 - Corona Virus
 - BUP ( BuPeriod )
