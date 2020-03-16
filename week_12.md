@@ -5,10 +5,10 @@
 - Location: NYC
 ### Current Projects & Studies
 - Virimodo  
--- who: Cool Startup.  
--- what: Connect energy consumers, property managers, and cities to clean energy suppliers.  
--- how: Community-building, code, and machine learning.  
--- link: https://virimodo.com/  
+who: Cool Startup.  
+what: Connect energy consumers, property managers, and cities to clean energy suppliers.  
+how: Community-building, code, and machine learning.  
+link: https://virimodo.com/  
 - BUP ( BuPeriod )
 -- who
 - FTT ( FuckTheTitle )
