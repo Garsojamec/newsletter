@@ -4,7 +4,7 @@
 - Vibe Check: Generally Healthy, Ambitious, Working to Put Corona in Check.
 - Location: NYC
 ### Current Projects & Studies
-- Virimodo
+- Virimodo  
 -- tldr: Cool Startup connecting energy consumers, building owners, property managers, and cities to clean energy suppliers via community-building, machine learning, and probably blockchain.
 -- link: https://virimodo.com/
 
