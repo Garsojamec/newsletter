@@ -1,4 +1,4 @@
-# Week 12 in Wesley's World
+# Week 12, 2020
 ## Status
 - Location: NYC
 - Corona: As far as I know, nope - but still social distancing!
