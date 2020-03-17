@@ -23,7 +23,7 @@
 - Fighting Corona Virus  
 -- who: Me & Pending  
 -- what: Put Corona in Check; Get Good Tests & Treatments Available.  
--- how: Data, networking, FOSS, and ingenuity.  
+-- how: Data, Community, FOSS, and Ingenuity.  
 ### Random Fun & Side Stuff
 - Mentoring
 - The Worms
