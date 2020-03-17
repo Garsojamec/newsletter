@@ -33,9 +33,9 @@
 - Prob, Stats, & ML  
 -- Running through Kaggle Challenges  
 -- Clustering Algorithm Presentations  
-- Languages
+- Languages  
 -- Current Focus: Spanish, French, Turkish, and Mandarin!  
-- Oculus Go
+- Oculus Go  
 -- Running Through Cyberspace, even though Facebook's Watching!  
-- Privacy 
+- Privacy  
 -- Looking at Fashion as Privacy-Enhancing Technologies
