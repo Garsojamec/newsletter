@@ -26,14 +26,16 @@
 -- how: Data, Community, FOSS, and Ingenuity.  
 ### Random Fun & Side Stuff
 - Mentoring
--- Teaching software development & data science to people.
+-- Teaching software development & data science to people.  
 - The Worms
--- Most recent bath died in the winter BUT I HAVE VIDEOS!
--- Next batch is a'comin'!
+-- Most recent bath died in the winter BUT I HAVE VIDEOS!  
+-- Next batch is a'comin'!  
 - Prob, Stats, & ML
--- Running through Kaggle Challenges
--- Preparing Presentations over Clustering Techniques
+-- Running through Kaggle Challenges  
+-- Clustering Algorithm Presentations  
 - Languages
--- Current Focus: Spanish, French, Turkish, and Mandarin!
+-- Current Focus: Spanish, French, Turkish, and Mandarin!  
 - Oculus Go
--- Running Through Cyberspace, even though Facebook's Watching!
+-- Running Through Cyberspace, even though Facebook's Watching!  
+- Privacy
+-- Looking at Fashion as Privacy-Enhancing Technologies
