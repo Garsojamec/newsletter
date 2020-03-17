@@ -3,7 +3,7 @@
 ### Status
 - Vibe Check: Generally Healthy, Ambitious, Working to Put Corona in Check.
 - Location: NYC
-### Current Projects & Studies
+### Current Projects
 - Virimodo  
 -- who: Cool Startup.  
 -- what: Connect energy consumers, property managers, and cities to clean energy suppliers.  
@@ -26,7 +26,14 @@
 -- how: Data, Community, FOSS, and Ingenuity.  
 ### Random Fun & Side Stuff
 - Mentoring
+-- Teaching software development & data science to people.
 - The Worms
-- Probability & Stats
+-- Most recent bath died in the winter BUT I HAVE VIDEOS!
+-- Next batch is a'comin'!
+- Prob, Stats, & ML
+-- Running through Kaggle Challenges
+-- Preparing Presentations over Clustering Techniques
 - Languages
+-- Current Focus: Spanish, French, Turkish, and Mandarin!
 - Oculus Go
+-- Running Through Cyberspace, even though Facebook's Watching!
