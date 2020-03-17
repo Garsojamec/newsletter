@@ -25,17 +25,17 @@
 -- what: Put Corona in Check; Get Good Tests & Treatments Available.  
 -- how: Data, Community, FOSS, and Ingenuity.  
 ### Random Fun & Side Stuff
-- Mentoring
+- Mentoring  
 -- Teaching software development & data science to people.  
-- The Worms
+- The Worms  
 -- Most recent bath died in the winter BUT I HAVE VIDEOS!  
 -- Next batch is a'comin'!  
-- Prob, Stats, & ML
+- Prob, Stats, & ML  
 -- Running through Kaggle Challenges  
 -- Clustering Algorithm Presentations  
 - Languages
 -- Current Focus: Spanish, French, Turkish, and Mandarin!  
 - Oculus Go
 -- Running Through Cyberspace, even though Facebook's Watching!  
-- Privacy
+- Privacy 
 -- Looking at Fashion as Privacy-Enhancing Technologies
