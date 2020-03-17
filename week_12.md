@@ -13,8 +13,8 @@
 -- what:  Provide private, health data management options to menstruators.  
 -- how:  Customized, wearable, smart pads + data privacy & community-building.  
 - FTT ( FuckTheTitle )  
--- who:  Amazing Project.  
--- what:  Sex-positive intervention into porn designed for Women of Color.  
+-- who:  Amazing Project fueld by PoCs.  
+-- what:  People of Color fueling Sex-positive intervention into pornography.  
 -- how:  Customized, data-driven UI and Content Overhaul.  
 - Smart Home IoT Data Privacy Research Lab  
 -- who: Oregon State University.  
