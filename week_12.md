@@ -1,9 +1,8 @@
 # Week 12, 2020
-## High-Level
-### Status
+## Status
 - Vibe Check: Generally Healthy, Ambitious, Working to Put Corona in Check.
 - Location: NYC
-### Current Projects
+## Current Projects
 - Virimodo  
 -- who: Cool Startup.  
 -- what: Connect energy consumers, property managers, and cities to clean energy suppliers.  
@@ -24,7 +23,7 @@
 -- who: Me & Pending  
 -- what: Put Corona in Check; Get Good Tests & Treatments Available.  
 -- how: Data, Community, FOSS, and Ingenuity.  
-### Random Fun & Side Stuff
+## Random Fun & Side Stuff
 - Mentoring  
 -- Teaching software development & data science to people.  
 - The Worms  
