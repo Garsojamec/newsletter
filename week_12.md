@@ -14,7 +14,7 @@
 -- how:  Customized, wearable, smart pads + data privacy & community-building.  
 - FTT ( FuckTheTitle )  
 -- who:  Amazing Project fueld by PoCs.  
--- what:  People of Color fueling Sex-positive intervention into pornography.  
+-- what:  Sex-positive intervention into pornography.  
 -- how:  Customized, data-driven UI and Content Overhaul.  
 - Smart Home IoT Data Privacy Research Lab  
 -- who: Oregon State University.  
