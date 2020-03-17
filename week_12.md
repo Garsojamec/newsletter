@@ -27,7 +27,7 @@
 - Mentoring  
 -- Teaching software development & data science to people.  
 - The Worms  
--- Most recent bath died in the winter BUT I HAVE VIDEOS!  
+-- Most recent batch died in the winter BUT I HAVE VIDEOS!  
 -- Next batch is a'comin'!  
 - Prob, Stats, & ML  
 -- Running through Kaggle Challenges  
