@@ -13,17 +13,17 @@
 -- what:  Provide private, health data management options to menstruators.  
 -- how:  Customized, wearable, smart pads + data privacy & community-building.  
 - FTT ( FuckTheTitle )  
--- who:  Amazing Project.
--- what:  Sex-positive intervention into porn designed for Women of Color.
+-- who:  Amazing Project.  
+-- what:  Sex-positive intervention into porn designed for Women of Color.  
 -- how:  Customized, data-driven UI and Content Overhaul.  
-- Smart Home IoT Data Privacy Research Lab
+- Smart Home IoT Data Privacy Research Lab  
 -- who: Oregon State University.  
 -- what: Develop model for analyzing privacy preferences and privacy policies.  
--- how: Lots of surveys, reading, and stats.
-- Fighting Corona Virus
--- who: Me & Pending
--- what: Put Corona in Check; Get Good Tests & Treatments Available.
--- how: Data, networking, FOSS, and ingenuity.
+-- how: Lots of surveys, reading, and stats.  
+- Fighting Corona Virus  
+-- who: Me & Pending  
+-- what: Put Corona in Check; Get Good Tests & Treatments Available.  
+-- how: Data, networking, FOSS, and ingenuity.  
 ### Random Fun & Side Stuff
 - Mentoring
 - The Worms
