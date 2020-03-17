@@ -10,17 +10,23 @@
 -- how: Community-building, code, and machine learning.  
 - BUP ( BuPeriod )  
 -- who: Cool Startup.  
--- what:  Provide private, health data management options to menstruators so they take agency over their menstrual health.  
+-- what:  Provide private, health data management options to menstruators.  
 -- how:  Customized, wearable, smart pads + data privacy & community-building.  
 - FTT ( FuckTheTitle )  
 -- who:  Amazing Project.
 -- what:  Sex-positive intervention into porn designed for Women of Color.
 -- how:  Customized, data-driven UI and Content Overhaul.  
-- Consumer Data Privacy
+- Smart Home IoT Data Privacy Research Lab
+-- who: Oregon State University.  
+-- what: Develop model for analyzing privacy preferences and privacy policies.  
+-- how: Lots of surveys, reading, and stats.
+- Fighting Corona Virus
+-- who: Me & Pending
+-- what: Put Corona in Check; Get Good Tests & Treatments Available.
+-- how: Data, networking, FOSS, and ingenuity.
+### Random Fun & Side Stuff
 - Mentoring
 - The Worms
-- Corona Virus
-### Random Fun & Side Stuff
 - Probability & Stats
 - Languages
 - Oculus Go
