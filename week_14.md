@@ -1,8 +1,8 @@
 # Week 14, 2020
 ## Status
-- Vibe Check: Was Stressed, but Found Zen - Sucks to Be Rona; Comin' For you!
-- Location: NYC
-- Upcoming: Going to Make this Newsletter More Usable In Future w/ Gatsby.js
+* Vibe Check: Calmly Focused
+* Location: NYC, An Epicenter of a Global Pandemic
+* Upcoming: Make Newsletter More Usable w/ [Gatsby.js](https://www.gatsbyjs.org/)
 ## Current Projects
 - Virimodo
 -- who: Cool Startup.
