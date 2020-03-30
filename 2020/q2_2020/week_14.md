@@ -18,7 +18,7 @@
 * status: Cool!
 * upcoming: Wait & See!
 
-## FTT ( FuckTheTitle )
+## FTT ( FTheTitle )
 * who:  Sex-Positive Software Engineers
 * what: PoC-driven, sex-positive intervention into pornography
 * how:  Customized, data-driven UI and Content Overhaul
