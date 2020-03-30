@@ -3,10 +3,12 @@
 * Vibe Check: Calmly Focused
 * Location: NYC, An Epicenter of a Global Pandemic
 * Upcoming: Make Newsletter More Usable w/ [Gatsby.js](https://www.gatsbyjs.org/)
+
 ## Current Projects
+
 - Virimodo
--- who: Cool Startup.
--- what: Connect energy consumers, property managers, and cities to clean energy suppliers.
+* who: Cool Startup.
+* what: Connect energy consumers, property managers, and cities to clean energy suppliers.
 -- how: Community-building, code, and machine learning.
 - BUP ( BuPeriod )
 -- who: Cool Startup.
