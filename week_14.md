@@ -6,25 +6,31 @@
 
 # Current Projects
 ## Virimodo
-* who: Clean Energy Startup
+* who: Clean Energy & Data Startup
+* what: Connecting Urban Renters to Clean Energy Suppliers
 * how: Community-building, code, and machine learning.
-* update: Currently On-boarding NYC Residents!
-* update: Building Quarantine-and-Covid Informational Widget
+* status: Currently On-boarding NYC Residents!
+* upcoming: Building Quarantine-and-Covid Informational Widget
 
 ## BUP ( BuPeriod )
-* who: Cool Startup.
-* what:  Provide private, health data management options to menstruators.
+* who: Femtech, Digital Health Management Startup
 * how:  Customized, wearable, smart pads + data privacy & community-building.
+* status: Cool!
+* upcoming: Wait & See!
 
 ## FTT ( FuckTheTitle )
-* who:  Amazing Project.
-* what:  PoC-driven, sex-positive intervention into pornography.
-* how:  Customized, data-driven UI and Content Overhaul.
+* who:  Sex-Positive Software Engineers
+* what: PoC-driven, sex-positive intervention into pornography
+* how:  Customized, data-driven UI and Content Overhaul
+* status: MVP has been launched!
+* upcoming: Wait & See!
 
 ## Smart Home IoT Data Privacy Research Lab
 * who: Oregon State University.
-* what: Develop model for analyzing privacy preferences and privacy policies.
-* how: Lots of surveys, reading, and stats.
+* what: Improve Usability of Privacy-Enhancing Technologies & Policies
+* how: Lots of surveys, reading, and stats
+* status: Building Tooling - Slow and Steady Wins the Race
+* upcoming: GLMM
 
 ## Addressing Corona Crisis
 * who: [AI Cough Detection App - JOGL 132](https://app.jogl.io/project/132)
