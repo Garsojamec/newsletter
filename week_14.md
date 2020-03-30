@@ -1,6 +1,6 @@
 # Week 14, 2020
 ## Status
-* Vibe Check: Calmly Focused
+* Vibe Check: Starting Q2 Calmly Focused
 * Location: NYC, An Epicenter of a Global Pandemic
 * Upcoming: Make Newsletter More Usable w/ [Gatsby.js](https://www.gatsbyjs.org/)
 
@@ -55,7 +55,7 @@
 
 ## Current Focused Languages
 * Spanish
-* German
+* German ( Starting Back Up )
 * Turkish ( On Hold )
 * Mandarin ( On Hold )
 
