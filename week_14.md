@@ -61,8 +61,9 @@
 
 ## Miscellaneous
 * Mentoring w/ Python & Data Science
+* Quarantine Art ( Mostly Conlanging )
 
-## Projects On Hiatus @ Corona
+## Random Things On Hiatus @ Corona
 - The Worms
 - Oculus Go
 - Fashion as Privacy-Enhancing
