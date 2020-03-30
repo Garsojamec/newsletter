@@ -4,35 +4,33 @@
 * Location: NYC, An Epicenter of a Global Pandemic
 * Upcoming: Make Newsletter More Usable w/ [Gatsby.js](https://www.gatsbyjs.org/)
 
-## Current Projects
-
-### Virimodo
+# Current Projects
+## Virimodo
 * who: Cool Startup.
 * what: Connect energy consumers, property managers, and cities to clean energy suppliers.
 -- how: Community-building, code, and machine learning.
 
-### BUP ( BuPeriod )
+## BUP ( BuPeriod )
 * who: Cool Startup.
 * what:  Provide private, health data management options to menstruators.
 * how:  Customized, wearable, smart pads + data privacy & community-building.
 
-### FTT ( FuckTheTitle )
+## FTT ( FuckTheTitle )
 * who:  Amazing Project.
 * what:  PoC-driven, sex-positive intervention into pornography.
 * how:  Customized, data-driven UI and Content Overhaul.
 
-### Smart Home IoT Data Privacy Research Lab
+## Smart Home IoT Data Privacy Research Lab
 * who: Oregon State University.
 * what: Develop model for analyzing privacy preferences and privacy policies.
 * how: Lots of surveys, reading, and stats.
 
-### Fighting Corona Virus
+## Fighting Corona Virus
 * who: Me & Pending
 * what: Put Corona in Check; Get Good Tests & Treatments Available.
 * how: Data, Community, FOSS, and Ingenuity.
 
 # Random Fun & Side Stuff
-
 ## Math - Real/Complex Analysis
 * [Rudin's Graduate Text on Real & Complex Analysis](https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341)
 * [Fourier Series - Tolstov](https://www.amazon.com/Fourier-Dover-Mathematics-Georgi-Tolstov-ebook/dp/B008TVG4ES)
