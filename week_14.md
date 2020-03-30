@@ -6,7 +6,7 @@
 
 ## Current Projects
 
-- Virimodo
+### Virimodo
 * who: Cool Startup.
 * what: Connect energy consumers, property managers, and cities to clean energy suppliers.
 -- how: Community-building, code, and machine learning.
