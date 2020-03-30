@@ -26,9 +26,9 @@
 -- how: Data, Community, FOSS, and Ingenuity.
 ## Random Fun & Side Stuff
 - Mentoring w/ Python & Data Science
-- Fourier Analysis & Real/Complex Analysis
--- [Rudin's Classic Text](https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341)
--- Tolstov's Basic Text on Fourier Series
+# Math - Real/Complex Analysis
+* [Rudin's Classic Text](https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341)
+* Tolstov's Basic Text on Fourier Series
 
 - Prob, Stats, & ML
 -- Clustering Algorithms w/ Iris Dataset
