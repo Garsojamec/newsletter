@@ -25,7 +25,7 @@
 -- what: Put Corona in Check; Get Good Tests & Treatments Available.
 -- how: Data, Community, FOSS, and Ingenuity.
 # Random Fun & Side Stuff
-- Mentoring w/ Python & Data Science
+
 ## Math - Real/Complex Analysis
 * [Rudin's Graduate Text on Real & Complex Analysis](https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341)
 * [Fourier Series - Tolstov](https://www.amazon.com/Fourier-Dover-Mathematics-Georgi-Tolstov-ebook/dp/B008TVG4ES)
@@ -39,6 +39,11 @@
 ## Current Focused Languages
 * Spanish
 * German
+* Turkish ( On Hold )
+* Mandarin ( On Hold )
+
+## Miscellaneous
+* Mentoring w/ Python & Data Science
 
 ## Projects On Hiatus @ Corona
 - The Worms
