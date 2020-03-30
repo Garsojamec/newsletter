@@ -28,9 +28,7 @@
 - Mentoring w/ Python & Data Science
 ## Math - Real/Complex Analysis
 * [Rudin's Graduate Text on Real & Complex Analysis](https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341)
-** Provides Foundation for More Advanced Data Science Techniques
 * [Fourier Series - Tolstov](https://www.amazon.com/Fourier-Dover-Mathematics-Georgi-Tolstov-ebook/dp/B008TVG4ES)
-** Useful to get into Time Series Data
 
 ## Data Science - ML & Stats
 * [Basic Stuff w/ Iris Dataset](https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset)
@@ -38,8 +36,9 @@
 * [Time Series Course on Coursera](https://www.coursera.org/learn/practical-time-series-analysis/home/welcome)
 * [Andrew Ng's ML Course](https://www.coursera.org/search?query=angdrew%20ng)
 
-## Languages
--- Current Focus: Spanish, French, Turkish, and Mandarin!
+## Current Focused Languages
+* Spanish
+* German
 
 ## Projects On Hiatus @ Corona
 - The Worms
