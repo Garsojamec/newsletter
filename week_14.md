@@ -24,22 +24,22 @@
 -- who: Me & Pending
 -- what: Put Corona in Check; Get Good Tests & Treatments Available.
 -- how: Data, Community, FOSS, and Ingenuity.
-## Random Fun & Side Stuff
+# Random Fun & Side Stuff
 - Mentoring w/ Python & Data Science
-# Math - Real/Complex Analysis
-* [Rudin's Classic Text](https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341)
-* Tolstov's Basic Text on Fourier Series
+## Math - Real/Complex Analysis
+* [Rudin's Graduate Text on Real & Complex Analysis](https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341) - Provides Foundation for More Advanced Data Science Techniques
+* [Fourier Series - Tolstov](https://www.amazon.com/Fourier-Dover-Mathematics-Georgi-Tolstov-ebook/dp/B008TVG4ES) - Useful to get into Time Series Data
 
-- Prob, Stats, & ML
--- Clustering Algorithms w/ Iris Dataset
--- Covid-19 Kaggle Challenges
--- Time Series Course on Coursera
----- https://www.coursera.org/learn/practical-time-series-analysis/home/welcome
--- Andrew Ng
---- https://www.coursera.org/search?query=angdrew%20ng
-- Languages
+## Data Science - ML & Stats
+* [Basic Stuff w/ Iris Dataset](https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset)
+* [Covid-19 Kaggle Challenges](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+* [Time Series Course on Coursera](https://www.coursera.org/learn/practical-time-series-analysis/home/welcome)
+* [Andrew Ng's ML Course](https://www.coursera.org/search?query=angdrew%20ng)
+
+## Languages
 -- Current Focus: Spanish, French, Turkish, and Mandarin!
-## Project On Hiatus @ Corona
+
+## Projects On Hiatus @ Corona
 - The Worms
 - Oculus Go
 - Fashion as Privacy-Enhancing
