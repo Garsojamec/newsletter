@@ -22,15 +22,15 @@
 * who:  Sex-Positive Software Engineers
 * what: PoC-driven, sex-positive intervention into pornography
 * how:  Customized, data-driven UI and Content Overhaul
-* status: MVP has been launched!
+* status: MVP in development!
 * upcoming: Wait & See!
 
 ## Smart Home IoT Data Privacy Research Lab
 * who: Oregon State University.
 * what: Improve Usability of Privacy-Enhancing Technologies & Policies
-* how: Lots of surveys, reading, and stats
+* how: Lots of [surveys](http://qualtrics.com/), [reading](https://ieeexplore.ieee.org/abstract/document/8103482), and stats
 * status: Building Tooling - Slow and Steady Wins the Race
-* upcoming: GLMM
+* upcoming: [GLMM](https://en.wikipedia.org/wiki/Generalized_linear_mixed_model)
 
 ## Addressing Corona Crisis
 * who: [AI Cough Detection App - JOGL 132](https://app.jogl.io/project/132)
@@ -40,7 +40,7 @@
   * [Paper 1](https://link.springer.com/chapter/10.1007/978-3-662-49381-6_29)
   * [Paper 2](https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-019-1046-6)
   * [Paper 3](https://dl.acm.org/doi/abs/10.1145/2750858.2804262?casa_token=1FlcLf3Xpg4AAAAA%3Af8Z3OZWrbSUxlUvXdC9H-qMdB_BAoUAGnW22h3wb9Y7ZJFjpr1uvOjSbtAfEtDOQVrBrs4BuTKQD5HU)
-  z* [Paper 4](https://www.scribd.com/document/360944829/An-Integrated-Computerized-Cough-Analysis-by-Using-Wavelet-for-Pneumonia-Diagnosis-1)
+  * [Paper 4](https://www.scribd.com/document/360944829/An-Integrated-Computerized-Cough-Analysis-by-Using-Wavelet-for-Pneumonia-Diagnosis-1)
 
 # Random Fun & Side Stuff
 ## Math - Real/Complex Analysis
