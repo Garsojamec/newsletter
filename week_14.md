@@ -27,7 +27,7 @@
 ## Random Fun & Side Stuff
 - Mentoring w/ Python & Data Science
 - Fourier Analysis & Real/Complex Analysis
--- [Rudin's Classic Text]([https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341)
+-- [Rudin's Classic Text](https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341)
 ----
 -- Tolstov's Basic Text on Fourier Series
 
