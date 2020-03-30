@@ -29,7 +29,7 @@
 * who: [AI Cough Detection App - JOGL 132](https://app.jogl.io/project/132)
 * what: Build FOSS Digital Covid-19 Detection App
 * how: Community w/ Novel AI/ML & Signal Analytic Techniques
-* papers:  
+* related_research: [Approach 1](https://link.springer.com/chapter/10.1007/978-3-662-49381-6_29) [Approach 2]() [Approach 3]() 
 
 # Random Fun & Side Stuff
 ## Math - Real/Complex Analysis
