@@ -8,7 +8,7 @@
 ## Virimodo
 * who: Cool Startup.
 * what: Connect energy consumers, property managers, and cities to clean energy suppliers.
--- how: Community-building, code, and machine learning.
+* how: Community-building, code, and machine learning.
 
 ## BUP ( BuPeriod )
 * who: Cool Startup.
@@ -25,10 +25,11 @@
 * what: Develop model for analyzing privacy preferences and privacy policies.
 * how: Lots of surveys, reading, and stats.
 
-## Fighting Corona Virus
-* who: Me & Pending
-* what: Put Corona in Check; Get Good Tests & Treatments Available.
-* how: Data, Community, FOSS, and Ingenuity.
+## Addressing Corona Crisis
+* who: [AI Cough Detection App - JOGL 132](https://app.jogl.io/project/132)
+* what: Build FOSS Digital Covid-19 Detection App
+* how: Community w/ Novel AI/ML & Signal Analytic Techniques
+* papers:  
 
 # Random Fun & Side Stuff
 ## Math - Real/Complex Analysis
